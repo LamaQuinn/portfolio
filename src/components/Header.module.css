@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 20px;
+    width: 100%;
+    background-color: rgb(238,234,230);
+    height: 90px;
+}
+
+.name_tag{
+    color: rgb(171, 167, 163);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+}
+.btn{
+    border: none;
+    font-size: 17px;
+    margin-right: 7px;
+    background-color: transparent;
+    color: rgb(171, 167, 163);
+    font-family: 'Rajdhani', sans-serif;
+}
