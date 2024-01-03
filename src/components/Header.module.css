@@ -6,20 +6,21 @@ header{
     box-sizing: border-box;
     padding: 0 20px;
     width: 100%;
-    background-color: rgb(238,234,230);
+    background-color: rgb(228,228,228);
     height: 90px;
 }
 
 .name_tag{
-    color: rgb(171, 167, 163);
+    color: #7D0A0A;
     font-family: 'Rajdhani', sans-serif;
     font-size: 20px;
 }
 .btn{
     border: none;
-    font-size: 17px;
+    font-size: 20px;
     margin-right: 7px;
     background-color: transparent;
     color: rgb(171, 167, 163);
     font-family: 'Rajdhani', sans-serif;
+    text-decoration: none;
 }
