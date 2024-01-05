@@ -1,0 +1,12 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../../assets/1.jpg");
+    background-size: contain; /* You can use 'cover', 'contain', or specific dimensions */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+  }
+  

@@ -8,19 +8,23 @@ header{
     width: 100%;
     background-color: rgb(228,228,228);
     height: 90px;
+
 }
 
 .name_tag{
-    color: #7D0A0A;
+    color: rgb(171, 167, 163);
     font-family: 'Rajdhani', sans-serif;
     font-size: 20px;
 }
 .btn{
     border: none;
     font-size: 20px;
-    margin-right: 7px;
+    margin-right: 17px;
+    padding: 10px;
     background-color: transparent;
     color: rgb(171, 167, 163);
     font-family: 'Rajdhani', sans-serif;
     text-decoration: none;
+    
+    
 }
