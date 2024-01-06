@@ -6,7 +6,7 @@ header{
     box-sizing: border-box;
     padding: 0 20px;
     width: 100%;
-    background-color: rgb(228,228,228);
+    background-color: rgb(245, 245, 245);
     height: 90px;
 
 }
@@ -15,13 +15,13 @@ header{
     color: rgb(171, 167, 163);
     font-family: 'Rajdhani', sans-serif;
     font-size: 20px;
-}
+    background-color: rgb(245, 245, 245);}
 .btn{
     border: none;
     font-size: 20px;
     margin-right: 17px;
     padding: 10px;
-    background-color: transparent;
+    background-color: rgb(245, 245, 245);
     color: rgb(171, 167, 163);
     font-family: 'Rajdhani', sans-serif;
     text-decoration: none;
